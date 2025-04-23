@@ -32,8 +32,8 @@ The report is structured into three main pages, each focusing on a key aspect of
 
 
 ## 🗂️ Files Included
-- `Global_Health_Report.pbix` – The Power BI Desktop report file.
-- (Optional) `data/` – Folder containing the raw dataset(s), if shared.
+- `In Rar file Global_Health_Report.pbix` – The Power BI Desktop report file.
+- PDF File of Visualization
 - `README.md` – Project documentation.
 
 ## 🚀 How to Use
